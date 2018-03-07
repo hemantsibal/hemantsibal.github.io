@@ -3,13 +3,12 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-  .css-selector {
-  font-family: 'Lato', serif;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
   padding: 0px;
   list-style: none;
   font-weight: bold;
 }
-    /* font-family:'Helvetica', 'Arial', 'Sans-Serif'; */
+    
 
 }
 nav ul li, footer ul li {
@@ -25,7 +24,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Lato', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
